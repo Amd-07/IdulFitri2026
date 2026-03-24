@@ -241,17 +241,17 @@ body {
   }
 
   .card h1 {
-    font-size: 75px;
+    font-size: 40px;
     font-weight: 500;
   }
   .card h2 {
     font-weight: 400;
-    font-size: 40px;
+    font-size: 20px;
   }
 
   .calendar {
     text-align: center;
-    width: 550px;
+    width: 450px;
   }
 
   .calendar .shape {
@@ -265,7 +265,7 @@ body {
   }
 
   .paragraft {
-    width: 500px;
+    width: 350px;
   }
 
   .paragraft p {
